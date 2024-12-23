@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Irfan Burak Ege\\OneDrive\\ders\\2. SINIF V\u0130ZE\\DATA STRUCTURES\\proje2\\project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1542C839-0C0B-4AEA-936D-9A431D566D7F}|project2.csproj|c:\\users\\irfan burak ege\\onedrive\\ders\\2. sinif v\u0130ze\\data structures\\proje2\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1542C839-0C0B-4AEA-936D-9A431D566D7F}|project2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 391,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Irfan Burak Ege\\OneDrive\\ders\\2. SINIF V\u0130ZE\\DATA STRUCTURES\\proje2\\project2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Irfan Burak Ege\\OneDrive\\ders\\2. SINIF V\u0130ZE\\DATA STRUCTURES\\proje2\\project2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:57:53.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
